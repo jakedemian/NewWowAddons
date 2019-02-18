@@ -1,0 +1,46 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0218,
+	["LastPlayerFullName"] = "Dulgan-Kilrogg",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128941] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 15,
+					["Type"] = "Fel",
+				}, -- [1]
+				{
+					["ItemLevel"] = 16,
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["ItemLevel"] = 15,
+					["Type"] = "Fel",
+				}, -- [3]
+			},
+			["Name"] = "Scepter of Sargeras",
+		},
+		[128943] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 16,
+					["Type"] = "Shadow",
+				}, -- [1]
+				{
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["Type"] = "Fel",
+				}, -- [3]
+			},
+			["Name"] = "Skull of the Man'ari",
+		},
+	},
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "WARLOCK",
+	["LastAdded"] = 1,
+}

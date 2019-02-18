@@ -1,0 +1,17 @@
+## Interface: 70100
+
+## Title: SoundPack
+## Notes: Sound Pack for LibSharedMedia.
+## Author: Tonyleila
+## X-Curse-Packaged-Version: 1.5
+## X-Curse-Project-Name: Sound Pack
+## X-Curse-Project-ID: sound-pack
+## X-Category: audio-video
+## X-Credits: Phanx
+## OptionalDeps: LibSharedMedia-3.0
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+
+SoundPack.lua

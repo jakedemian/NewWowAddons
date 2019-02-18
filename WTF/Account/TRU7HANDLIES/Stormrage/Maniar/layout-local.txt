@@ -1,0 +1,8 @@
+Version: 1
+Frame: DBMMinimapButton
+FrameLevel: 7
+Anchor: TOPRIGHT
+X: -152
+Y: -125
+W: 27
+H: 27

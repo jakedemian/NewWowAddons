@@ -1,0 +1,6 @@
+VER 3 0100000000000001 "/kneel" "1346147"
+/kneel
+END
+VER 3 0100000000000002 "pages" "INV_MISC_QUESTIONMARK"
+/run local a={45470,47207,47208,47209,47210,47211,47212,47213}for i,q in ipairs(a)do print(format("Page %s: %s",i, IsQuestFlaggedCompleted(q) and "\124cFF00FF00Done\124r" or "\124cFFFF0000Not Done\124r")) end
+END

@@ -1,0 +1,10 @@
+Altoholic_Achievements: disabled
+Altoholic_Agenda: disabled
+Altoholic_Grids: disabled
+Altoholic_Characters: disabled
+Altoholic_Guild: disabled
+Altoholic_Summary: disabled
+Altoholic_Search: disabled
+Azeroth Auto Pilot: disabled
+I_Hear_You_All: disabled
+SexyMap: disabled

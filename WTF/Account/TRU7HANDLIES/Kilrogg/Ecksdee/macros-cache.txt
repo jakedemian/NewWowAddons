@@ -1,0 +1,48 @@
+VER 3 010000000000000B "Beacon" "236247"
+#showtooltip Beacon of Light
+/use [@mouseover,help,nodead][help,nodead][@player] Beacon of Light
+END
+VER 3 0100000000000009 "BoP" "135964"
+#showtooltip Blessing of Protection
+/use [@mouseover,help,nodead][help,nodead][@player] Blessing of Protection
+END
+VER 3 0100000000000008 "BoS" "135966"
+#showtooltip Blessing of Sacrifice
+/use [@mouseover,help,nodead][help,nodead][@player] Blessing of Sacrifice
+END
+VER 3 0100000000000005 "Cleanse" "135949"
+#showtooltip Cleanse
+/use [@mouseover,help,nodead][help,nodead][@player] Cleanse
+END
+VER 3 0100000000000004 "Faith" "236249"
+#showtooltip Bestow Faith
+/use [@mouseover,help,nodead][help,nodead][@player] Bestow Faith
+END
+VER 3 0100000000000001 "Flash" "135907"
+#showtooltip Flash of Light
+/use [@mouseover,help,nodead][help,nodead][@player] Flash of Light
+END
+VER 3 0100000000000006 "Holy Light" "135981"
+#showtooltip Holy Light
+/use [@mouseover,help,nodead][help,nodead][@player] Holy Light
+END
+VER 3 0100000000000002 "Holy Shock" "135972"
+#showtooltip Holy Shock
+/use [@mouseover,nodead][nodead][@player] Holy Shock
+END
+VER 3 010000000000000A "LoH" "135928"
+#showtooltip Lay on Hands
+/use [@mouseover,help,nodead][help,nodead][@player] Lay on Hands
+END
+VER 3 0100000000000007 "Martyr" "1360762"
+#showtooltip Light of the Martyr
+/use [@mouseover,help,nodead][help,nodead][@player] Light of the Martyr
+END
+VER 3 010000000000000C "Prism" "613408"
+#showtooltip Holy Prism
+/use [@mouseover,help,nodead][help,nodead][@player] Holy Prism
+END
+VER 3 0100000000000003 "Tyr's" "1122562"
+#showtooltip Tyr's Deliverance
+/use Tyr's Deliverance
+END

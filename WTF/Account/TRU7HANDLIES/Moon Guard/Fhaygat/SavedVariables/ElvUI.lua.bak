@@ -1,0 +1,319 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/who twink sparkle", -- [1]
+		"/cw Vilt this mconnell? inv?", -- [2]
+		"/g tune", -- [3]
+		"/ec", -- [4]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"this mconnell? inv?", -- [1]
+			"Vilt", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Vilt", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-3675-0845EB9A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Vilt|r",
+			[51] = 1540928567,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [1]
+		{
+			"this tune will be 59 and twinkclap will be lvl 19 brack", -- [1]
+			"Twinkknight", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-3675-0845D8C4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTwinkknight|r",
+			[51] = 1540928584,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [2]
+		{
+			"put it in your guild note", -- [1]
+			"Nomadhunter-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-3675-0845F928", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Nomadhunter|r",
+			[51] = 1540928587,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [3]
+		{
+			"i shouldve never gotten these 3 levels on my rogue :/", -- [1]
+			"Arbz-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-3675-08469988", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Arbz|r",
+			[51] = 1540928587,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [4]
+		{
+			"tune", -- [1]
+			"Fhaygat-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-3675-0846A1BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Fhaygat|r",
+			[51] = 1540928591,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [5]
+		{
+			"ya i saw that lul", -- [1]
+			"Twinkknight-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-3675-0845D8C4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTwinkknight|r",
+			[51] = 1540928600,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [6]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:979:Player-3675-0846A101:1:10:30:18:4294967295:4294967295:4294967295:4294967295|h[The Mask Task]|h|r!", -- [1]
+			"Asmonhealer", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asmonhealer", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-3675-0846A101", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaAsmonhealer|r",
+			[51] = 1540928611,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [7]
+		{
+			"just assume im stupid. ", -- [1]
+			"Twinkknight-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-3675-0845D8C4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTwinkknight|r",
+			[51] = 1540928611,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [8]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:629:Player-3675-08469FA8:1:10:30:18:4294967295:4294967295:4294967295:4294967295|h[Ragefire Chasm]|h|r!", -- [1]
+			"Pyremyria", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pyremyria", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-3675-08469FA8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPyremyria|r",
+			[51] = 1540928634,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [9]
+		{
+			"l1fm 59 bis runs dps/tank", -- [1]
+			"Käî-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-3675-08465565", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddKäî|r",
+			[51] = 1540928653,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [10]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:289:Player-3675-084599BE:1:10:30:18:4294967295:4294967295:4294967295:4294967295|h[The Savior of Hallow's End]|h|r!", -- [1]
+			"Roty-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Roty", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-3675-084599BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edRoty|r",
+			[51] = 1540928672,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [11]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:208:Player-3675-0845F850:1:10:30:18:4294967295:4294967295:4294967295:4294967295|h[Eye of the Storm Victory]|h|r!", -- [1]
+			"Lightmeup-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lightmeup", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-3675-0845F850", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffLightmeup|r",
+			[51] = 1540928690,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [12]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:972:Player-3675-08462578:1:10:30:18:4294967295:4294967295:4294967295:4294967295|h[Trick or Treat!]|h|r!", -- [1]
+			"Throatcut", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Throatcut", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-3675-08462578", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Throatcut|r",
+			[51] = 1540928690,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [13]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:973:Player-3675-0845DBD9:1:10:30:18:4294967295:4294967295:4294967295:4294967295|h[5 Daily Quests Completed]|h|r!", -- [1]
+			"Tirotwink-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tirotwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-3675-0845DBD9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Tirotwink|r",
+			[51] = 1540928722,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [14]
+	},
+}

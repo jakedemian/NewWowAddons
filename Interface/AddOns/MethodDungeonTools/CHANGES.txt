@@ -1,0 +1,10 @@
+lightweight tag 4b1fd38f193621eb6745839ef098cf2481026d9d v2.2.42
+Author:	Nnogga <27819512+nnogga@users.noreply.github.com>
+Date:	Wed Oct 17 20:32:15 2018 +0200
+
+commit 4b1fd38f193621eb6745839ef098cf2481026d9d
+Author: Nnogga <27819512+nnogga@users.noreply.github.com>
+Date:   Wed Oct 17 20:32:15 2018 +0200
+
+    pack before lord/lady waycrest removed
+

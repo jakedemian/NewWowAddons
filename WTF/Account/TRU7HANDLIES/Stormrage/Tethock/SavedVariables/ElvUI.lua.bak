@@ -1,0 +1,293 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"WTS |cffa335ee|Hitem:31336::::::::110:260::::::|h[Blade of Wizardry]|h|r |cffa335ee|Hitem:23540::::::::110:260::::::|h[Felsteel Longblade]|h|r pst cheap", -- [1]
+			"Hiddenwonton-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hiddenwonton", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2240, -- [11]
+			"Player-60-0BA9B1B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffff468Hiddenwonton|r",
+			[51] = 1533681657,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"WTS |cffa335ee|Hitem:17193::::::::1:64::1::::|h[Sulfuron Hammer]|h|r|cffff8000|Hitem:17771::::::::1:64::::::|h[Enchanted Elementium Bar]|h|rx10", -- [1]
+			"ßasic-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßasic", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2296, -- [11]
+			"Player-60-0B2BD910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc6eaßasic|r",
+			[51] = 1533681903,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"WTS |cffa335ee|Hitem:17193::::::::1:64::1::::|h[Sulfuron Hammer]|h|r|cffff8000|Hitem:17771::::::::1:64::::::|h[Enchanted Elementium Bar]|h|rx10", -- [1]
+			"ßasic-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßasic", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2323, -- [11]
+			"Player-60-0B2BD910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc6eaßasic|r",
+			[51] = 1533682007,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"WTS |cffa335ee|Hitem:17193::::::::1:64::1::::|h[Sulfuron Hammer]|h|r|cffff8000|Hitem:17771::::::::1:64::::::|h[Enchanted Elementium Bar]|h|rx10", -- [1]
+			"ßasic-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßasic", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2333, -- [11]
+			"Player-60-0B2BD910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc6eaßasic|r",
+			[51] = 1533682069,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+		{
+			"WTS |cffa335ee|Hitem:31336::::::::110:260::::::|h[Blade of Wizardry]|h|r |cffa335ee|Hitem:23540::::::::110:260::::::|h[Felsteel Longblade]|h|r pst ", -- [1]
+			"Hiddenwonton-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hiddenwonton", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2347, -- [11]
+			"Player-60-0BA9B1B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffff468Hiddenwonton|r",
+			[51] = 1533682121,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [5]
+		{
+			"WTS |cffa335ee|Hitem:17193::::::::1:64::1::::|h[Sulfuron Hammer]|h|r|cffff8000|Hitem:17771::::::::1:64::::::|h[Enchanted Elementium Bar]|h|rx10", -- [1]
+			"ßasic-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßasic", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2375, -- [11]
+			"Player-60-0B2BD910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc6eaßasic|r",
+			[51] = 1533682161,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [6]
+		{
+			"WTS |cffa335ee|Hitem:31336::::::::110:260::::::|h[Blade of Wizardry]|h|r |cffa335ee|Hitem:23540::::::::110:260::::::|h[Felsteel Longblade]|h|r pst ", -- [1]
+			"Hiddenwonton-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hiddenwonton", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2408, -- [11]
+			"Player-60-0BA9B1B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffff468Hiddenwonton|r",
+			[51] = 1533682213,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [7]
+		{
+			"WTS |cffa335ee|Hitem:17193::::::::1:64::1::::|h[Sulfuron Hammer]|h|r|cffff8000|Hitem:17771::::::::1:64::::::|h[Enchanted Elementium Bar]|h|rx10", -- [1]
+			"ßasic-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßasic", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2470, -- [11]
+			"Player-60-0B2BD910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc6eaßasic|r",
+			[51] = 1533682299,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [8]
+		{
+			"WTS |cffa335ee|Hitem:17193::::::::1:64::1::::|h[Sulfuron Hammer]|h|r|cffff8000|Hitem:17771::::::::1:64::::::|h[Enchanted Elementium Bar]|h|rx10", -- [1]
+			"ßasic-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßasic", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2509, -- [11]
+			"Player-60-0B2BD910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc6eaßasic|r",
+			[51] = 1533682389,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [9]
+		{
+			"WTS |cffa335ee|Hitem:31336::::::::110:260::::::|h[Blade of Wizardry]|h|r |cffa335ee|Hitem:23540::::::::110:260::::::|h[Felsteel Longblade]|h|r pst ", -- [1]
+			"Hiddenwonton-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hiddenwonton", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2515, -- [11]
+			"Player-60-0BA9B1B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffff468Hiddenwonton|r",
+			[51] = 1533682418,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [10]
+		{
+			"WTS |cffa335ee|Hitem:17193::::::::1:64::1::::|h[Sulfuron Hammer]|h|r|cffff8000|Hitem:17771::::::::1:64::::::|h[Enchanted Elementium Bar]|h|rx10", -- [1]
+			"ßasic-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßasic", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2523, -- [11]
+			"Player-60-0B2BD910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc6eaßasic|r",
+			[51] = 1533682465,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [11]
+		{
+			"WTS |cffa335ee|Hitem:17193::::::::1:64::1::::|h[Sulfuron Hammer]|h|r|cffff8000|Hitem:17771::::::::1:64::::::|h[Enchanted Elementium Bar]|h|rx10", -- [1]
+			"ßasic-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßasic", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2828, -- [11]
+			"Player-60-0B2BD910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc6eaßasic|r",
+			[51] = 1533683954,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [12]
+		{
+			"WTS Removed Items: |cff0070dd|Hitem:2292::::::::1:64::1::::|h[Necrology Robes]|h|r|cff1eff00|Hitem:892::::::::1:64::::::|h[Gnoll Casting Gloves]|h|r|cff0070dd|Hitem:6332:::::::1913947264:1:64::::::|h[Black Pearl Ring]|h|r", -- [1]
+			"ßasic-Stormrage", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßasic", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2834, -- [11]
+			"Player-60-0B2BD910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc6eaßasic|r",
+			[51] = 1533683972,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [13]
+	},
+}

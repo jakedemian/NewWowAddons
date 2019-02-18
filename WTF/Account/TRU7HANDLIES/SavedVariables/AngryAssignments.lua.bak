@@ -1,0 +1,78 @@
+
+AngryAssign_Pages = {
+	[1666414715] = {
+		["Updated"] = 1540348037,
+		["Name"] = "Vectis",
+		["Id"] = 1666414715,
+		["UpdateId"] = 551541000,
+		["Contents"] = "{triangle} - Group 1\n{diamond} - Group 2\n{star} - Group 3\n{circle} - Group 4\n\nHealing CDs\nContagion 1: Hymn + Rally\nContagion 2: Sel AM +Chel  Wings\nContagion 3: Tranq + Sel Wings\nintermission 1: salvation\n\nContagion 1: Fhay + Night Darkness\nContagion 2: Chel AM +Haram  Dark + Chel Wings\nContagion 3: Tranq +Sel  Wings\nintermission 2: Tix Tree\n\nContagion 1: Hymn + Rally\nContagion 2: Sel AM +Chel  Wings\nContagion 3: Tranq + Sel Wings\nintermission 3: salvation\n\nContagion 1: Fhay + Night Darkness\nContagion 2: Chel AM + Haram Dark + Chel Wing\nContagion 3: Tranq + Sel Wings",
+	},
+	[168683197] = {
+		["Updated"] = 1539137920,
+		["Name"] = "Zekvoz",
+		["Id"] = 168683197,
+		["UpdateId"] = 1609147175,
+		["Contents"] = "Add Interrupts\n{triangle}  Nut - Valsh - Kurori\n{square}  Matt - Cebri - Smooth\n{x}  Waldo - Ego - Thanas\n\nOrb of Corruption - Call your shots\nEgo - Thanas - Smooth - Inky - Waldo - Cebri - Nut - Xbows - Kurori - Derek - Matt\n\nHealing CDS:\n1. Tix\n2. Sio\n3. Bro\n4. Sel\n5. Fhay",
+	},
+	[4171113554] = {
+		["Updated"] = 1539572568,
+		["Name"] = "Zul weekend",
+		["Id"] = 4171113554,
+		["UpdateId"] = 3624187035,
+		["Contents"] = "Dispels\n{star} Kuda-Fhay {circle}\n{star} Shad-Fhay {circle}\n{star} Card-Fhay {circle}\n\nOuter Team",
+	},
+	[2711440584] = {
+		["Updated"] = 1538534129,
+		["Name"] = "Zul",
+		["Id"] = 2711440584,
+		["UpdateId"] = 1964461347,
+		["Contents"] = "Dispels\n{star} Fhay-Bro {circle}\n{star} Fhay-Bro {circle}\n{star} Fhay-Bro {circle}\n\nOuter Team\nDan - Carrdis - Ahmad",
+	},
+	[1645399904] = {
+		["Updated"] = 1538535253,
+		["Name"] = "ghuun",
+		["Id"] = 1645399904,
+		["UpdateId"] = 1640060387,
+		["Contents"] = "Phase 1 Orbs\n{circle} Cebri\n{diamond} Sio - Andy\n{circle} Smooth\n\nPhase 2 Orbs\n{circle} Cebri\n{diamond} Card - Valsh\n{circle} Smooth",
+	},
+	[3101752862] = {
+		["Updated"] = 1540343953,
+		["Name"] = "MOTHER",
+		["Id"] = 3101752862,
+		["UpdateId"] = 2667692386,
+		["Contents"] = "MOTHER - Groups\n1. Kurori - {X}Night - {triangle}Smooth - Bro - {circle}Thanas\n2. Chel - Shadil - Loser\n3. Fhay - Andy - Haram\n4. Matt - Waldo - Nite\n5. Tix - Inkeyes - Xbows - Decepshun\n6. Mehk - Selorath\n\nHealing CDs\n1. Fhay + Chel\n2. Sel (Wings)\n3. Tix\n4. Chel (Wings)\n5. Bro\n\n2nd Wall\n1. Sel + Bro + Fhay",
+	},
+	[1368348665] = {
+		["Updated"] = 1538535324,
+		["Name"] = "G'huun",
+		["Id"] = 1368348665,
+		["UpdateId"] = 2772281269,
+		["Contents"] = "Phase 1 Orbs\n{circle} Sio - Xbows\n{diamond} Chel - Andy\n{circle} Derek - Ego\n\nPhase 2 Orbs\n{circle} Night - Waldo\n{diamond} Cebri - Valsh\n\nTransition Orb\n{circle} Thanas (Resto Affinity) - Smoothbrain\n\nPhase 3 Slices\n{triangle} - Thenut -Ego - Night - Xbows - Fhay  - Carrdis  - Valsh\n{square} - Haram -  Nite - Loser - Selorath - Derek - Bro - Than- smooth\n{star} - Kurori - Xbows - Cebri - Sam - Mattsh - Ahmad - Chel - Tix",
+	},
+}
+AngryAssign_Categories = {
+}
+AngryAssign_State = {
+	["tree"] = {
+		["groups"] = {
+		},
+		["scrollvalue"] = 0,
+		["treesizable"] = true,
+		["treewidth"] = 175,
+		["fullwidth"] = 666,
+	},
+	["locked"] = true,
+	["window"] = {
+	},
+	["display"] = {
+		["y"] = 195.0478515625,
+		["x"] = -119.206298828125,
+		["point"] = "RIGHT",
+		["scale"] = 1,
+		["hidden"] = false,
+		["width"] = 254.285614013672,
+	},
+	["directionUp"] = false,
+}
+AngryAssign_Config = {
+}

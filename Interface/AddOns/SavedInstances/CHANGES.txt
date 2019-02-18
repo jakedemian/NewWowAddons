@@ -1,0 +1,14 @@
+tag 5fda57750b8446421efe5b9b010053cb9610efac 8.0.5
+Author:	Benjamin Staneck <staneck@gmail.com>
+Date:	Wed Aug 15 14:52:09 2018 +0200
+
+Tag 8.0.5
+
+commit 1960beee0e8108ce1cf49e315f947f130b205890
+Author: Benjamin Staneck <staneck@gmail.com>
+Date:   Wed Aug 15 14:51:09 2018 +0200
+
+    add BfA currencies
+    
+    Fixes #152
+

@@ -1,0 +1,6 @@
+ConsolePortUI_Menu: disabled
+ConsolePortUI_Loot: disabled
+ConsolePortLoader: disabled
+ConsolePortHelp: disabled
+ConsolePortBar: disabled
+ConsolePort: disabled

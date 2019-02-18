@@ -1,0 +1,15 @@
+Version: 1
+Frame: ColorPickerFrame
+FrameLevel: 21
+Anchor: CENTER
+X: -64
+Y: -84
+W: 365
+H: 240
+Frame: DetailsPluginContainerWindow
+FrameLevel: 1
+Anchor: CENTER
+X: -107
+Y: -75
+W: 925
+H: 600

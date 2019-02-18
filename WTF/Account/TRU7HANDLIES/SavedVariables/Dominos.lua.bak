@@ -1,0 +1,4088 @@
+
+DominosDB = {
+	["namespaces"] = {
+		["ProgressBars"] = {
+			["global"] = {
+				["version"] = 1,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Arodarin - Kilrogg"] = "Priest",
+		["Ahriak - Kilrogg"] = "Death Knight",
+		["Fhayup - Area 52"] = "Priest",
+		["Kjalsdhflkas - Moon Guard"] = "Druid",
+		["Kummies - Kilrogg"] = "Priest",
+		["Fhayrump - Area 52"] = "Priest",
+		["Fhaytem - Area 52"] = "Priest",
+		["Dulgan - Kilrogg"] = "Priest",
+		["Diuhreeuh - Kilrogg"] = "Priest",
+		["Gudgrul - Trollbane"] = "Hunter",
+		["Fhayray - Area 52"] = "Priest",
+		["Fhaygat - Moon Guard"] = "Priest",
+		["Diuhreeuh - Area 52"] = "Shaman",
+		["Arodarin - Area 52"] = "Priest",
+		["Fhayink - Area 52"] = "Priest",
+		["Fhaygash - Moon Guard"] = "Rogue",
+		["Fhayeet - Area 52"] = "Priest",
+		["Fhaysneak - Area 52"] = "Priest",
+		["Ecksie - Kilrogg"] = "Warrior",
+		["Fhayrin - Area 52"] = "Priest",
+		["Fhaydin - Area 52"] = "Priest",
+		["Delaneth - Kilrogg"] = "Priest",
+		["Stipit - Kilrogg"] = "Rogue",
+		["Fhaykum - Area 52"] = "Priest",
+		["Fhayot - Area 52"] = "Huntard",
+		["Fhayge - Area 52"] = "Priest",
+		["Rindrunk - Area 52"] = "Hunter",
+		["Fhayonk - Area 52"] = "Priest",
+		["Ecksdee - Kilrogg"] = "Priest",
+	},
+	["profiles"] = {
+		["Warrior"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+					["pages"] = {
+						["WARRIOR"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 80,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 120,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 160,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 200,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 240,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["numButtons"] = 20,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["y"] = -16,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "artifact",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["numButtons"] = 20,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 0,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "xp",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["x"] = 0,
+					["display"] = {
+						["border"] = true,
+						["icon"] = false,
+						["time"] = true,
+					},
+					["texture"] = "blizzard",
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+			},
+		},
+		["Paladin"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+					["pages"] = {
+						["PALADIN"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40,
+					["pages"] = {
+						["PALADIN"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 80,
+					["pages"] = {
+						["PALADIN"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 120,
+					["pages"] = {
+						["PALADIN"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 160,
+					["pages"] = {
+						["PALADIN"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 200,
+					["pages"] = {
+						["PALADIN"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 240,
+					["pages"] = {
+						["PALADIN"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280,
+					["pages"] = {
+						["PALADIN"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320,
+					["pages"] = {
+						["PALADIN"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360,
+					["pages"] = {
+						["PALADIN"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["numButtons"] = 20,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["y"] = -16,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "artifact",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["numButtons"] = 20,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 0,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "xp",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["x"] = 0,
+					["display"] = {
+						["border"] = true,
+						["icon"] = false,
+						["time"] = true,
+					},
+					["texture"] = "blizzard",
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+			},
+		},
+		["Shaman"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["y"] = 0,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+						},
+					},
+					["y"] = 40,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+						},
+					},
+					["y"] = 80,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+						},
+					},
+					["y"] = 120,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+						},
+					},
+					["y"] = 160,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+						},
+					},
+					["y"] = 200,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+						},
+					},
+					["y"] = 240,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+						},
+					},
+					["y"] = 280,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+						},
+					},
+					["y"] = 320,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["SHAMAN"] = {
+						},
+					},
+					["y"] = 360,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["alwaysShowText"] = true,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["x"] = 0,
+					["y"] = -16,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["padH"] = 2,
+					["mode"] = "azerite",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["alwaysShowText"] = true,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["x"] = 0,
+					["y"] = 0,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["padH"] = 2,
+					["mode"] = "xp",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["display"] = {
+						["time"] = true,
+						["border"] = true,
+						["icon"] = false,
+					},
+					["x"] = 0,
+					["texture"] = "blizzard",
+				},
+			},
+		},
+		["Monk"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+					["pages"] = {
+						["MONK"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40,
+					["pages"] = {
+						["MONK"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 80,
+					["pages"] = {
+						["MONK"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 120,
+					["pages"] = {
+						["MONK"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 160,
+					["pages"] = {
+						["MONK"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 200,
+					["pages"] = {
+						["MONK"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 240,
+					["pages"] = {
+						["MONK"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280,
+					["pages"] = {
+						["MONK"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320,
+					["pages"] = {
+						["MONK"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360,
+					["pages"] = {
+						["MONK"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["numButtons"] = 20,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["y"] = -16,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "artifact",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["numButtons"] = 20,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 0,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "xp",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["x"] = 0,
+					["display"] = {
+						["icon"] = false,
+						["time"] = true,
+						["border"] = true,
+					},
+					["texture"] = "blizzard",
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+			},
+		},
+		["Rogue"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+							["page2"] = 1,
+							["shadowdance"] = 6,
+							["page5"] = 4,
+							["page4"] = 3,
+							["stealth"] = 6,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 0,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 40,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 80,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 120,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 160,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 200,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 240,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 280,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 320,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 360,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["alwaysShowText"] = true,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["x"] = 0,
+					["y"] = -16,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["padH"] = 2,
+					["mode"] = "artifact",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["alwaysShowText"] = true,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["x"] = 0,
+					["y"] = 0,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["padH"] = 2,
+					["mode"] = "xp",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["display"] = {
+						["icon"] = false,
+						["time"] = true,
+						["border"] = true,
+					},
+					["x"] = 0,
+					["texture"] = "blizzard",
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["class"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "CENTER",
+					["spacing"] = 2,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+			},
+		},
+		["Mage"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 0,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 40,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 80,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 120,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 160,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 200,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 240,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 280,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 320,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["MAGE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = 360,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["numButtons"] = 20,
+					["y"] = -16,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["padW"] = 2,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["mode"] = "artifact",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["numButtons"] = 20,
+					["y"] = 0,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["padW"] = 2,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["mode"] = "xp",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["display"] = {
+						["border"] = true,
+						["icon"] = false,
+						["time"] = true,
+					},
+					["x"] = 0,
+					["texture"] = "blizzard",
+				},
+			},
+			["minimap"] = {
+				["minimapPos"] = 244.248464156848,
+			},
+		},
+		["Huntard"] = {
+			["showTooltipsCombat"] = false,
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["y"] = 39,
+					["showstates"] = "",
+					["clickThrough"] = false,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["WARLOCK"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["DEMONHUNTER"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["DRUID"] = {
+							["bear"] = 8,
+							["tree"] = 0,
+							["page2"] = 1,
+							["cat"] = 6,
+							["page5"] = 4,
+							["page4"] = 3,
+							["moonkin"] = 9,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["PRIEST"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["padW"] = 2,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "RIGHT",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["padH"] = 2,
+					["padW"] = 2,
+					["x"] = -40,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["DRUID"] = {
+						},
+						["PRIEST"] = {
+						},
+					},
+					["spacing"] = 4,
+					["anchor"] = "4LC",
+					["y"] = -42,
+					["numButtons"] = 12,
+					["columns"] = 1,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["padH"] = 2,
+					["padW"] = 2,
+					["showstates"] = "",
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["DRUID"] = {
+						},
+						["PRIEST"] = {
+						},
+					},
+					["clickThrough"] = false,
+					["anchor"] = "1BR",
+					["y"] = 2,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["columns"] = 1,
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["y"] = -42,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["DRUID"] = {
+						},
+						["PRIEST"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["point"] = "RIGHT",
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["scale"] = 1.25,
+					["showInOverrideUI"] = false,
+					["padH"] = 7,
+					["y"] = 95,
+					["showstates"] = "",
+					["numButtons"] = 4,
+					["clickThrough"] = false,
+					["anchor"] = "6TC",
+					["padW"] = 7,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["DRUID"] = {
+						},
+						["PRIEST"] = {
+						},
+					},
+					["spacing"] = 27,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["padH"] = 2,
+					["padW"] = 2,
+					["showstates"] = "",
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["DRUID"] = {
+						},
+						["PRIEST"] = {
+						},
+					},
+					["clickThrough"] = false,
+					["anchor"] = "1TC",
+					["y"] = 85,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["columns"] = 1,
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["padW"] = 2,
+					["x"] = -307,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["DRUID"] = {
+						},
+						["PRIEST"] = {
+						},
+					},
+					["y"] = 105,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "LEFT",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["y"] = -48,
+					["showstates"] = "",
+					["padW"] = 2,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["DRUID"] = {
+						},
+						["PRIEST"] = {
+						},
+					},
+					["columns"] = 1,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "LEFT",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["padW"] = 2,
+					["x"] = 121,
+					["y"] = -158,
+					["spacing"] = 4,
+					["anchor"] = "10BL",
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["DRUID"] = {
+						},
+						["PRIEST"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["padH"] = 2,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "LEFT",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["padW"] = 2,
+					["x"] = 121,
+					["y"] = -118,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["DRUID"] = {
+						},
+						["PRIEST"] = {
+						},
+					},
+					["anchor"] = "menuBL",
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["alwaysShowText"] = true,
+					["y"] = -16,
+					["lockMode"] = true,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["x"] = 0,
+					["padW"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["padH"] = 2,
+					["mode"] = "azerite",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["alwaysShowText"] = true,
+					["y"] = 0,
+					["lockMode"] = true,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["x"] = 0,
+					["padW"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["padH"] = 2,
+					["mode"] = "xp",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["x"] = 377,
+					["point"] = "BOTTOM",
+					["scale"] = 1,
+					["showInOverrideUI"] = true,
+					["hidden"] = true,
+					["y"] = 65,
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["x"] = 121,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["anchor"] = "menuTL",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["y"] = -47,
+				},
+				["pet"] = {
+					["y"] = 253,
+					["x"] = 110,
+					["point"] = "BOTTOMLEFT",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "LEFT",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 41,
+					["padH"] = 1,
+					["display"] = {
+						["border"] = true,
+						["time"] = true,
+						["icon"] = false,
+					},
+					["x"] = 119,
+					["texture"] = "blizzard",
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["x"] = 75,
+					["columns"] = 1,
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["point"] = "TOPLEFT",
+					["y"] = -69,
+				},
+				["menu"] = {
+					["showInPetBattleUI"] = false,
+					["x"] = 121,
+					["point"] = "LEFT",
+					["spacing"] = 0,
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["y"] = -82,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["x"] = 75,
+					["columns"] = 1,
+					["spacing"] = 2,
+					["anchor"] = "rollBR",
+					["showInOverrideUI"] = true,
+					["point"] = "TOPLEFT",
+					["y"] = -188,
+				},
+				["vehicle"] = {
+					["y"] = 137,
+					["x"] = -224,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["class"] = {
+					["showInPetBattleUI"] = false,
+					["x"] = 87,
+					["point"] = "BOTTOM",
+					["spacing"] = 2,
+					["anchor"] = "encounterTR",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["y"] = 241,
+				},
+				["extra"] = {
+					["y"] = 132,
+					["x"] = -338,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+			},
+			["showgrid"] = true,
+		},
+		["Demon Hunter"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 80,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 120,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 160,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 200,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 240,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360,
+					["pages"] = {
+						["DEMONHUNTER"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["numButtons"] = 20,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["y"] = -16,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "artifact",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["point"] = "TOP",
+					["numButtons"] = 20,
+					["padW"] = 2,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 0,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "xp",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["x"] = 0,
+					["display"] = {
+						["border"] = true,
+						["icon"] = false,
+						["time"] = true,
+					},
+					["texture"] = "blizzard",
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+			},
+		},
+		["Druid"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+					["pages"] = {
+						["DRUID"] = {
+							["bear"] = 8,
+							["tree"] = 7,
+							["page2"] = 1,
+							["cat"] = 6,
+							["page5"] = 4,
+							["page4"] = 3,
+							["moonkin"] = 9,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 80,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 120,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 160,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 200,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 240,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["numButtons"] = 20,
+					["y"] = -16,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["padW"] = 2,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "artifact",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["numButtons"] = 20,
+					["y"] = 0,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["padW"] = 2,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "xp",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["x"] = 0,
+					["display"] = {
+						["time"] = true,
+						["border"] = true,
+						["icon"] = false,
+					},
+					["texture"] = "blizzard",
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["class"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "CENTER",
+					["spacing"] = 2,
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+			},
+		},
+		["Priest"] = {
+			["showTooltipsCombat"] = false,
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["y"] = 39,
+					["showstates"] = "",
+					["padW"] = 2,
+					["clickThrough"] = false,
+					["padH"] = 2,
+					["pages"] = {
+						["HUNTER"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["SHAMAN"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["MAGE"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["PRIEST"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["WARLOCK"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["DEMONHUNTER"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["PALADIN"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["DRUID"] = {
+							["bear"] = 8,
+							["tree"] = 0,
+							["page2"] = 1,
+							["cat"] = 6,
+							["page5"] = 4,
+							["page4"] = 3,
+							["moonkin"] = 9,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["MONK"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["ROGUE"] = {
+							["page2"] = 1,
+							["shadowdance"] = 6,
+							["page5"] = 4,
+							["page4"] = 3,
+							["stealth"] = 6,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+					["spacing"] = 4,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "RIGHT",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["columns"] = 1,
+					["padW"] = 2,
+					["x"] = -40,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["anchor"] = "4LC",
+					["y"] = -42,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["SHAMAN"] = {
+						},
+						["MAGE"] = {
+						},
+						["PRIEST"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
+						},
+						["DRUID"] = {
+						},
+						["MONK"] = {
+						},
+						["ROGUE"] = {
+						},
+					},
+					["padH"] = 2,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["clickThrough"] = false,
+					["padW"] = 2,
+					["showstates"] = "",
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["anchor"] = "1BR",
+					["y"] = 2,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["SHAMAN"] = {
+						},
+						["MAGE"] = {
+						},
+						["PRIEST"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
+						},
+						["DRUID"] = {
+						},
+						["MONK"] = {
+						},
+						["ROGUE"] = {
+						},
+					},
+					["padH"] = 2,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["columns"] = 1,
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["point"] = "RIGHT",
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["SHAMAN"] = {
+						},
+						["MAGE"] = {
+						},
+						["PRIEST"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
+						},
+						["DRUID"] = {
+						},
+						["MONK"] = {
+						},
+						["ROGUE"] = {
+						},
+					},
+					["y"] = -42,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["scale"] = 1.25,
+					["showInOverrideUI"] = false,
+					["clickThrough"] = false,
+					["y"] = 95,
+					["showstates"] = "",
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["SHAMAN"] = {
+						},
+						["MAGE"] = {
+						},
+						["PRIEST"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
+						},
+						["DRUID"] = {
+						},
+						["MONK"] = {
+						},
+						["ROGUE"] = {
+						},
+					},
+					["spacing"] = 27,
+					["anchor"] = "6TC",
+					["padW"] = 7,
+					["numButtons"] = 4,
+					["padH"] = 7,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["clickThrough"] = false,
+					["padW"] = 2,
+					["showstates"] = "",
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["anchor"] = "1TC",
+					["y"] = 85,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["SHAMAN"] = {
+						},
+						["MAGE"] = {
+						},
+						["PRIEST"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
+						},
+						["DRUID"] = {
+						},
+						["MONK"] = {
+						},
+						["ROGUE"] = {
+						},
+					},
+					["padH"] = 2,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOMLEFT",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["columns"] = 1,
+					["padW"] = 2,
+					["x"] = 81,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["anchor"] = "9LC",
+					["y"] = 150,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["SHAMAN"] = {
+						},
+						["MAGE"] = {
+						},
+						["PRIEST"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
+						},
+						["DRUID"] = {
+						},
+						["MONK"] = {
+						},
+						["ROGUE"] = {
+						},
+					},
+					["padH"] = 2,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "LEFT",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["y"] = -48,
+					["showstates"] = "",
+					["columns"] = 1,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["SHAMAN"] = {
+						},
+						["MAGE"] = {
+						},
+						["PRIEST"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
+						},
+						["DRUID"] = {
+						},
+						["MONK"] = {
+						},
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["padW"] = 2,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "LEFT",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["padW"] = 2,
+					["x"] = 121,
+					["anchor"] = "10BL",
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["SHAMAN"] = {
+						},
+						["MAGE"] = {
+						},
+						["PRIEST"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
+						},
+						["DRUID"] = {
+						},
+						["MONK"] = {
+						},
+						["ROGUE"] = {
+						},
+					},
+					["y"] = -158,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "LEFT",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["padW"] = 2,
+					["x"] = 121,
+					["padH"] = 2,
+					["spacing"] = 4,
+					["anchor"] = "menuBL",
+					["pages"] = {
+						["HUNTER"] = {
+						},
+						["SHAMAN"] = {
+						},
+						["MAGE"] = {
+						},
+						["PRIEST"] = {
+						},
+						["WARLOCK"] = {
+						},
+						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
+						},
+						["DRUID"] = {
+						},
+						["MONK"] = {
+						},
+						["ROGUE"] = {
+						},
+					},
+					["numButtons"] = 12,
+					["y"] = -118,
+				}, -- [10]
+				["artifact"] = {
+					["point"] = "TOP",
+					["lockMode"] = true,
+					["padW"] = 2,
+					["spacing"] = 1,
+					["mode"] = "azerite",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["showInOverrideUI"] = false,
+					["y"] = -16,
+					["x"] = 0,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["font"] = "Friz Quadrata TT",
+					["padH"] = 2,
+					["numButtons"] = 20,
+				},
+				["exp"] = {
+					["point"] = "TOP",
+					["lockMode"] = true,
+					["padW"] = 2,
+					["spacing"] = 1,
+					["mode"] = "reputation",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["showInOverrideUI"] = false,
+					["y"] = 0,
+					["x"] = 0,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["font"] = "Friz Quadrata TT",
+					["padH"] = 2,
+					["numButtons"] = 20,
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["x"] = 377,
+					["point"] = "BOTTOM",
+					["scale"] = 1,
+					["showInOverrideUI"] = true,
+					["hidden"] = true,
+					["y"] = 65,
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["x"] = 121,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["anchor"] = "menuTL",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["y"] = -47,
+				},
+				["pet"] = {
+					["y"] = -14,
+					["x"] = 121,
+					["point"] = "LEFT",
+					["spacing"] = 6,
+					["anchor"] = "bagsTL",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "LEFT",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 41,
+					["padH"] = 1,
+					["x"] = 119,
+					["display"] = {
+						["time"] = true,
+						["border"] = true,
+						["icon"] = false,
+					},
+					["texture"] = "blizzard",
+				},
+				["roll"] = {
+					["y"] = -69,
+					["x"] = 75,
+					["point"] = "TOPLEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["showInPetBattleUI"] = true,
+					["columns"] = 1,
+				},
+				["extra"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["y"] = -93,
+				},
+				["class"] = {
+					["showInPetBattleUI"] = false,
+					["x"] = 87,
+					["point"] = "BOTTOM",
+					["spacing"] = 2,
+					["anchor"] = "encounterTR",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["y"] = 241,
+				},
+				["vehicle"] = {
+					["y"] = 137,
+					["x"] = -224,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "TOPLEFT",
+					["showInOverrideUI"] = true,
+					["y"] = -188,
+					["x"] = 75,
+					["spacing"] = 2,
+					["anchor"] = "rollBR",
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "LEFT",
+					["scale"] = 1,
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["y"] = -82,
+					["x"] = 121,
+					["spacing"] = 0,
+				},
+			},
+			["minimap"] = {
+				["minimapPos"] = 234.496351774613,
+			},
+			["showgrid"] = true,
+		},
+		["Hunter"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["y"] = 0,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+					},
+					["y"] = 40,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+					},
+					["y"] = 80,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+					},
+					["y"] = 120,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+					},
+					["y"] = 160,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+					},
+					["y"] = 200,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+					},
+					["y"] = 240,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+					},
+					["y"] = 280,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+					},
+					["y"] = 320,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["HUNTER"] = {
+						},
+					},
+					["y"] = 360,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["numButtons"] = 20,
+					["y"] = -16,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["padW"] = 2,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["mode"] = "artifact",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["numButtons"] = 20,
+					["y"] = 0,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["padW"] = 2,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["mode"] = "xp",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["display"] = {
+						["border"] = true,
+						["icon"] = false,
+						["time"] = true,
+					},
+					["x"] = 0,
+					["texture"] = "blizzard",
+				},
+			},
+		},
+		["Death Knight"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 80,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 120,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 160,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 200,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 240,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360,
+					["pages"] = {
+						["DEATHKNIGHT"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["numButtons"] = 20,
+					["y"] = -16,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["padW"] = 2,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "artifact",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["numButtons"] = 20,
+					["y"] = 0,
+					["lockMode"] = true,
+					["padH"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["padW"] = 2,
+					["x"] = 0,
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["mode"] = "xp",
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["x"] = 0,
+					["display"] = {
+						["time"] = true,
+						["border"] = true,
+						["icon"] = false,
+					},
+					["texture"] = "blizzard",
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+			},
+		},
+		["Warlock"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+						},
+					},
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 80,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+						},
+					},
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 120,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+						},
+					},
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 160,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+						},
+					},
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 200,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+						},
+					},
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 240,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+						},
+					},
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+						},
+					},
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+						},
+					},
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARLOCK"] = {
+						},
+					},
+				}, -- [10]
+				["artifact"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["alwaysShowText"] = true,
+					["y"] = -16,
+					["lockMode"] = true,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["x"] = 0,
+					["padW"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["padH"] = 2,
+					["mode"] = "artifact",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+				},
+				["exp"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "TOP",
+					["columns"] = 20,
+					["alwaysShowText"] = true,
+					["y"] = 0,
+					["lockMode"] = true,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["x"] = 0,
+					["padW"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["padH"] = 2,
+					["mode"] = "xp",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["point"] = "CENTER",
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["padH"] = 1,
+					["x"] = 0,
+					["display"] = {
+						["icon"] = false,
+						["time"] = true,
+						["border"] = true,
+					},
+					["texture"] = "blizzard",
+				},
+				["vehicle"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["extra"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "CENTER",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+			},
+		},
+	},
+}
+DominosVersion = "8.1.3"

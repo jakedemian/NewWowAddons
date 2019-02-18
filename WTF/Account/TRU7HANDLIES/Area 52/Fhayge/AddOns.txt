@@ -1,0 +1,7 @@
+ElvUI_EverySecondCounts: disabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+Bagnon: disabled
+BigWigs_BattleOfDazaralor: enabled
+LittleWigs: enabled

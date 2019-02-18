@@ -1,0 +1,35 @@
+
+TukuiConfigShared = {
+	["Account"] = {
+	},
+	["Stormrage"] = {
+		["Talkur"] = {
+			["General"] = {
+				["UIScale"] = 0.71,
+			},
+		},
+		["Maniar"] = {
+		},
+		["Rhyolun"] = {
+			["UnitFrames"] = {
+				["Font"] = "Pixel",
+				["UnlinkCastBar"] = true,
+				["CastBarIcon"] = false,
+			},
+			["Bags"] = {
+				["PulseNewItem"] = false,
+			},
+			["ActionBars"] = {
+				["NormalButtonSize"] = 35,
+				["HotKey"] = true,
+				["Macro"] = true,
+				["ButtonSpacing"] = 1,
+				["HideBackdrop"] = true,
+			},
+			["Chat"] = {
+				["LootFrame"] = false,
+			},
+		},
+	},
+}
+TukuiConfigPerAccount = true

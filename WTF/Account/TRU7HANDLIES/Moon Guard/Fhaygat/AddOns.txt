@@ -1,0 +1,12 @@
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+ConsolePortUI: disabled
+ConsolePortUI_NPC: disabled
+ElvUI_EverySecondCounts: disabled
+ConsolePortUI_Menu: disabled
+ConsolePortUI_Loot: disabled
+ConsolePortLoader: disabled
+ConsolePortHelp: disabled
+ConsolePortBar: disabled
+ConsolePort: disabled

@@ -1,0 +1,29 @@
+
+RaiderIO_Config = {
+	["enableKeystoneTooltips"] = true,
+	["disableScoreColors"] = false,
+	["profilePoint"] = {
+	},
+	["showRaiderIOProfile"] = true,
+	["enableWhoTooltips"] = true,
+	["inverseProfileModifier"] = false,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+	["showSimpleScoreColors"] = true,
+	["lockProfile"] = false,
+	["alwaysExtendTooltip"] = false,
+	["positionProfileAuto"] = true,
+	["enableUnitTooltips"] = true,
+	["enableFriendsTooltips"] = true,
+	["enableProfileModifier"] = true,
+	["showDropDownCopyURL"] = true,
+	["showAverageScore"] = true,
+	["enableLFGTooltips"] = true,
+	["enableClientEnhancements"] = true,
+	["showMainsScore"] = true,
+	["enableWhoMessages"] = true,
+	["showScoreInCombat"] = true,
+	["displayWeeklyGuildBest"] = true,
+	["showClientGuildBest"] = true,
+}
+RaiderIO_LastCharacter = "us-Fhayrin-area-52"
